@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.jsx"],"names":[],"mappings":";;;;AAAA;;;;AACA;;;;;;;;;;;;IAEM,I;;;;;;;;;;;iCACM;AACJ;AACH;;;;EAHc,gBAAM,S","file":"index.js","sourcesContent":["import React from \"react\";\nimport ReactDOM from \"react-dom\";\n\nclass Main extends React.Component{\n    render(){\n        retu\n    }\n}"]}
