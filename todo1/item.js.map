@@ -1,0 +1,1 @@
+{"version":3,"sources":["item.jsx"],"names":[],"mappings":";;;;;;;;AAAA;;;;AACA;;;;;;;;;;;;IAEqB,I;;;;;;;;;;;iCACT;AACJ;AACH;;;;EAH6B,gBAAM,S;;kBAAnB,I","file":"item.js","sourcesContent":["import React from \"react\";\nimport ReactDOM from \"react-dom\";\n\nexport default class Item extends React.Component{\n    render(){\n        return\n    }\n}\n"]}
